@@ -1,0 +1,21 @@
+sex,field,fraction,year
+male,Business and commercial studies,0.194,1991
+female,Business and commercial studies,0.277,1991
+male,Arts and social sciences,0.166,1991
+female,Arts and social sciences,0.222,1991
+male,"Mechanical, electrical, electronic and marine engineering",0.203,1991
+female,"Mechanical, electrical, electronic and marine engineering",0.0432,1991
+male,Architecture and construction engineering,0.106,1991
+female,Architecture and construction engineering,0.0242,1991
+male,Computer studies,0.0509,1991
+female,Computer studies,0.0249,1991
+male,Pure science,0.083,1991
+female,Pure science,0.0498,1991
+male,Medical and health related studies,0.055,1991
+female,Medical and health related studies,0.111,1991
+male,Education,0.0371,1991
+female,Education,0.121,1991
+male,"Textile, design and other industrial technology",0.0403,1991
+female,"Textile, design and other industrial technology",0.0405,1991
+male,Other fields,0.0649,1991
+female,Other fields,0.086,1991
